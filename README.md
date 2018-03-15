@@ -1,9 +1,6 @@
-# CPSC359-A3
-CPSC 359: Computing Machinery II
+# Raspberry Pi Game - "Invasion of the Blobs" - With Joystick and Accelerometer Control
+Computing Machinery II
 University of Calgary
-Fall 2017
-
-Assignment 3: 
 
 Raspberry Pi - PiGame
 "Invasion of the Blobs" Game
